@@ -1,5 +1,5 @@
 NAME := my-echo
-REPOSITORY := pyoppyo/$(NAME)
+REPOSITORY := pyopppyo/$(NAME)
 TAG := 20250807
 GOOS := linux
 GOARCH := amd64
