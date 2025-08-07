@@ -9,7 +9,6 @@ build:
 	GOOS=$(GOOS) GOARCH=$(GOARCH) go build -o _output/$(NAME) .
 
 test:
-	go test -v
 
 image-build:
 	docker build -t $(REPOSITORY):$(TAG) .
