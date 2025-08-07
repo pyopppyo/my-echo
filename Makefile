@@ -1,5 +1,5 @@
 NAME := my-echo
-REPOSITORY := ysakashita/$(NAME)
+REPOSITORY := pyok/$(NAME)
 TAG := 20240710
 GOOS := linux
 GOARCH := amd64
