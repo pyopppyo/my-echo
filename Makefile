@@ -1,6 +1,6 @@
 NAME := my-echo
 REPOSITORY := pyok/$(NAME)
-TAG := 20240710
+TAG := 20250807
 GOOS := linux
 GOARCH := amd64
 
